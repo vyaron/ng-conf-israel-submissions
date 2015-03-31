@@ -41,4 +41,5 @@ overview many frameworks and tools, both free and commercial.
 ### Session Meta Data
 
 - Target Audience: Beginners
+- Length: Full session (45 minutes) or Lighting Talk (15 minutes)
 - Tags: Test-Automation, Continuous Delivery, Selenium, Selenium-Ecosystem
