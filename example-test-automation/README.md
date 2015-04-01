@@ -20,7 +20,8 @@ Development.
 - Phone: 052.3606.996
 - Website [Testim.io](http://testim.io)
 
-You may also include other relevant links: github, linked-in, links to past talks, etc.
+You may also include other relevant links: github, LinkedIn, links to past talks, etc. 
+It will also be helpful if you add links to past presentations video recordings but this is optional.
 
 Session Details
 ===============
